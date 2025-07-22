@@ -73,6 +73,7 @@ public class MathMenu {
                         second = next;
                     }
                     System.out.println();
+                    
                     break;
 
                 case 5:
